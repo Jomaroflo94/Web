@@ -2,4 +2,5 @@
 /Backend/Web.Backend.Api/bin
 /Backend/Web.Backend.Api/obj
 *.user
-/Frontend/Web.Frontend.WebApp/bin/Debug/net8.0
+/Frontend/Web.Frontend.WebApp/bin
+/Frontend/Web.Frontend.WebApp/obj
